@@ -21,9 +21,11 @@ This is a sample project where I have added below things:
 <li>	Any setter method has to be marked as virtual.  </li>
 <li>Batch insert is supported. However, Id has to be of type of GUID.</li>
 <li>	Inheritance Not Supported For Value Objects, it has to be Entity. </li>
-
+</ol>
+<br>
 <h2>Common Error </h2>
-No persister for: User
+<h3>
+No persister for: User</h3>
 
 Solution:
 1) Check if there is no Mapper class defined for that Entity or Component
