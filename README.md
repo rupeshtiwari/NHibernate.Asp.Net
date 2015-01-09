@@ -10,7 +10,7 @@ This is a sample project where I have added below things:
 <br>
 <h2> To Run Project </h2>
 <p>
-Please create a NDemo database inside the SQL Server. I have used SQL2012 express edision.
+Please create a database named as "NDemo" inside the SQL Server. I have used SQL2012 express edision.
 </p>
 <h2>Notes on NHibernate</h2>
 <ol>
