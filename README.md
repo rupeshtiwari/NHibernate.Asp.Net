@@ -7,7 +7,6 @@ This is a sample project where I have added below things:
 <li>Test Project to test all samples</li>
 <li>Using DI to inject Session object</li>
 </ul>
-<br>
 <h2> To Run Project </h2>
 <p>
 Please create a database named as "NDemo" inside the SQL Server. I have used SQL2012 express edision.
@@ -26,7 +25,7 @@ Please create a database named as "NDemo" inside the SQL Server. I have used SQL
 <li>Batch insert is supported. However, Id has to be of type of GUID.</li>
 <li>	Inheritance Not Supported For Value Objects, it has to be Entity. </li>
 </ol>
-<br>
+ 
 <h2>Common Error </h2>
 <h3>
 No persister for: User</h3>
