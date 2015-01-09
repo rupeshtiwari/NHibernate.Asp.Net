@@ -22,3 +22,10 @@ This is a sample project where I have added below things:
 <li>Batch insert is supported. However, Id has to be of type of GUID.</li>
 <li>	Inheritance Not Supported For Value Objects, it has to be Entity. </li>
 
+<h2>Common Error </h2>
+No persister for: User
+
+Solution:
+1) Check if there is no Mapper class defined for that Entity or Component
+2) Make sure Mapper Class must be public
+
