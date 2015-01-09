@@ -27,8 +27,8 @@ Please create a database named as "NDemo" inside the SQL Server. I have used SQL
 </ol>
  
 <h2>Common Error </h2>
-<h3>
-No persister for: User</h3>
+<p style='color:red'>
+ No persister for: User</p>
 Solution:
 <ol>
 <li> Check if there is no Mapper class defined for that Entity or Component</li>
