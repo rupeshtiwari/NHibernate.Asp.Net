@@ -10,3 +10,6 @@ C:\Users\rtiwari\Google Drive\Projects\Tasks\NHibernet\NHibernetDemo\RepositoryP
 C:\Users\rtiwari\Google Drive\Projects\Tasks\NHibernet\NHibernetDemo\RepositoryPattern\obj\Debug\RepositoryPattern.exe
 C:\Users\rtiwari\Google Drive\Projects\Tasks\NHibernet\NHibernetDemo\RepositoryPattern\obj\Debug\RepositoryPattern.pdb
 C:\Users\rtiwari\Google Drive\Projects\Tasks\NHibernet\NHibernetDemo\RepositoryPattern\obj\Debug\RepositoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\rtiwari\Source\Repos\NHibernateAsp.Net\RepositoryPattern\bin\Debug\RepositoryPattern.exe.config
+C:\Users\rtiwari\Source\Repos\NHibernateAsp.Net\RepositoryPattern\obj\Debug\RepositoryPattern.exe
+C:\Users\rtiwari\Source\Repos\NHibernateAsp.Net\RepositoryPattern\obj\Debug\RepositoryPattern.pdb
