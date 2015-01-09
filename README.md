@@ -26,8 +26,8 @@ This is a sample project where I have added below things:
 <h2>Common Error </h2>
 <h3>
 No persister for: User</h3>
-
 Solution:
-1) Check if there is no Mapper class defined for that Entity or Component
-2) Make sure Mapper Class must be public
-
+<ol>
+<li> Check if there is no Mapper class defined for that Entity or Component</li>
+<li> Make sure Mapper Class must be public</li>
+</ol>
