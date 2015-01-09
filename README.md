@@ -8,6 +8,10 @@ This is a sample project where I have added below things:
 <li>Using DI to inject Session object</li>
 </ul>
 <br>
+<h2> To Run Project </h2>
+<p>
+Please create a NDemo database inside the SQL Server. I have used SQL2012 express edision.
+</p>
 <h2>Notes on NHibernate</h2>
 <ol>
 <li>	Database has to be created manually.</li>
