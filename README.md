@@ -27,7 +27,7 @@ Please create a database named as "NDemo" inside the SQL Server. I have used SQL
 </ol>
  
 <h2>Common Error </h2>
-<p style='color:red'>
+<p>
  No persister for: User</p>
 Solution:
 <ol>
